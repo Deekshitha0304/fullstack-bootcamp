@@ -20,4 +20,10 @@ Important learning:
 Git should be initialized in the course repository root, not inside each module folder.
 
 
+<<<<<<< HEAD
 Checking branch again
+=======
+Checking branch again
+
+Revision
+>>>>>>> branch-test
