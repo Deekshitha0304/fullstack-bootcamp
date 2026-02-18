@@ -18,3 +18,6 @@ It successfully authenticated.
 
 Important learning:
 Git should be initialized in the course repository root, not inside each module folder.
+
+
+Checking branch again
