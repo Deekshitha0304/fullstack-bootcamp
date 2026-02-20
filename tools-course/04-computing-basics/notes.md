@@ -20,7 +20,7 @@ Using `ps aux`, I saw that every program (VS Code, Chrome, Python server, etc.) 
 
 When I start:
 
-```bash
+
 python3 -m http.server 5000
 
 
@@ -101,8 +101,13 @@ This is the exact workflow used in backend debugging.
 ###Main Takeaways
 
 ->Everything running on my system is a process.
+
 ->Every process runs under a user.
+
 ->Permissions control file access and execution.
+
 ->A server is simply a process bound to a port.
+
 ->Port conflicts are normal and solvable.
+
 ->Debugging is about investigation, not guessing.
